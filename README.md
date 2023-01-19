@@ -133,4 +133,4 @@ urlpatterns = [
 
 ## Result:
 
-the proram for implementing server side processing is completed successfully
+The proram for implementing server side processing is completed successfully
